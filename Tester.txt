@@ -1,2 +1,3 @@
 This is a tester.
 This line is added from inside Eclipse.
+And this from github
